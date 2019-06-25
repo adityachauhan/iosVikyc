@@ -1,0 +1,6 @@
+framework module Pods_vikycTests {
+  umbrella header "Pods-vikycTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
